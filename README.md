@@ -9,5 +9,8 @@ Using React to incorporate user input of custom tasks to be added, deleted and p
 * CSS
 * JavaScript
 
+## Completed Date:
+* 20 Apr 2024
+
 
 
